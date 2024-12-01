@@ -1,0 +1,22 @@
+{
+  "name": "js__homework--gallery",
+  "version": "1.0.0",
+  "description": "JS Gallery homework project",
+  "main": "src/index.html",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/eugenekh81/JS__Homework--gallery.git"
+  },
+  "author": "Eugene K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eugenekh81/JS__Homework--gallery/issues"
+  },
+  "homepage": "https://github.com/eugenekh81/JS__Homework--gallery#readme"
+}
