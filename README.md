@@ -11,9 +11,7 @@
 
 Створи фронтенд частину застосунку пошуку і перегляду зображень за ключовим словом. Додай оформлення елементів інтерфейсу. Подивись демо-відео роботи застосунку.
 
-<div style="margin-inline: auto; margin-bottom:20px;width:640px;height:360px">
-  <video src="https://youtu.be/qn5760CrIrE" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
-</div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn5760CrIrE?si=WfVjGpcYFASrbtlf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Форма пошуку
 
