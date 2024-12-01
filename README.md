@@ -11,8 +11,8 @@
 
 Створи фронтенд частину застосунку пошуку і перегляду зображень за ключовим словом. Додай оформлення елементів інтерфейсу. Подивись демо-відео роботи застосунку.
 
-<div style="margin-inline:auto;margin-bottom:20px;width:640px;height:360px">
-  <video src="./example/gallery__example--1.mp4" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
+<div style="margin-inline: auto; margin-bottom:20px;width:640px;height:360px">
+  <video src="https://youtu.be/qn5760CrIrE" preload="auto" controls="" style="width: 100%; height: 100%;"></video>
 </div>
 
 ## Форма пошуку
