@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/eugenekh81/JS__Homework--gallery#readme",
   "devDependencies": {
+    "parcel-bundler": "^1.12.5",
     "sass": "^1.81.0"
   },
   "dependencies": {
@@ -30,4 +31,3 @@
     "simplelightbox": "^2.14.3"
   }
 }
-
