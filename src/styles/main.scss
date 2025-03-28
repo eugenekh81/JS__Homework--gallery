@@ -1,3 +1,28 @@
-body {
+@use './utils/variables' as *;
+@use './blocks/loader.scss';
+@use './blocks/search-form';
+@use './blocks/gallery';
+@use './blocks/photo-card';
+html {
+  font-family: 'Roboto', serif;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p {
   margin: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }

@@ -1,0 +1,12 @@
+@use './utils/variables' as *;
+
+.gallery {
+  margin: 0 auto;
+  padding: 50px 0;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  width: $galleryWidth;
+  gap: $galleryGap;
+}
