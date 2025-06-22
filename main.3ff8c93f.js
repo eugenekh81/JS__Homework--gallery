@@ -34806,4 +34806,4 @@ function toggleLoader() {
   loader.classList.toggle('hidden');
 }
 },{"dotenv/config":"TjOx","axios":"dZBD","simplelightbox":"yx6k","simplelightbox/dist/simple-lightbox.min.css":"rDCW","./templates/photo-card.hbs":"lKFs"}]},{},["d6sW"], null)
-//# sourceMappingURL=main.3ff8c93f.js.map
+//# sourceMappingURL=/JS__Homework--gallery/main.3ff8c93f.js.map
